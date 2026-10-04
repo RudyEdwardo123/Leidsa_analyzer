@@ -1,0 +1,10 @@
+# Pruebas y calidad de código
+pytest>=8.0.0
+pytest-cov>=4.1.0
+
+# Tipado y análisis estático
+typing-extensions>=4.9.0
+
+# Manipulación de datos y series temporales
+pandas>=2.3.3
+numpy>=2.1.0
